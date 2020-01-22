@@ -1,4 +1,4 @@
-# LSTM-ELK <br>
+# The Use Terms of this Codebase <br>
 "Electricity Forecasting by using Recurrent Neural Networks for purposes of Speculation and Hedging" <br>
 
 This is the Bachelors Thesis written by Ali Izzet Metin Under supervision of Assistant Professor Canan Karatekin. <br>
