@@ -3,5 +3,5 @@
 
 This is the Bachelors Thesis written by Ali Izzet Metin Under supervision of Assistant Professor Canan Karatekin. <br>
 
-**Any use of code in an academical environment should refer to its author in the form of citation.** <br> 
+**Any use of this code in an academical environment should refer to its author in the form of citation.** <br> 
 
