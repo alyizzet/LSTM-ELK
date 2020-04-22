@@ -3,7 +3,7 @@
 
 **This is the Bachelors Thesis written under supervision of Assistant Professor Canan Karatekin.**<br>
 
-**Any use of this code in an academical environment should refer to its authors in the form of citation.** <br> 
+**Any use of this code in an academical environment should refer to its authors in the form of a citation.** <br> 
 
 
 
